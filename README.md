@@ -6,7 +6,7 @@
 ## StudyLink
 - [누구나 쉽게 이해할수 있는 GIT입문](https://backlog.com/git-tutorial/kr/intro/intro4_5.html)
 - [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/#why-not-how)
-
+- [Pro GIT](https://git-scm.com/book/ko/v2)
 
 ## History
 
