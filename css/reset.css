@@ -57,7 +57,7 @@ a, a:active, a:visited, a:hover {
 html, body{
     font-size:16px;
     color:#333;
-    font-family: '', sans-serif;
+    font-family: 'Noto Sans KR', 'Nanum Gothic', sans-serif;
 }
 @media screen and (max-width:1200px) {
     html, body{
