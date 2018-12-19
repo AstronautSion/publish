@@ -3,4 +3,5 @@
 
 
 ###HISTORY
+- 2018.12.19 - font추가
 - 2018.12.17 - repository 생성
